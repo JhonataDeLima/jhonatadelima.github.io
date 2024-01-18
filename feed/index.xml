@@ -12,7 +12,7 @@
 	<atom:link href="https://jhonatadelima.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jhonatadelima.github.io</link>
 	<description></description>
-	<lastBuildDate>Thu, 18 Jan 2024 04:21:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Jan 2024 05:53:59 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,203 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
-		<title>ultima</title>
-		<link>https://jhonatadelima.github.io/2024/01/18/ultima/</link>
-					<comments>https://jhonatadelima.github.io/2024/01/18/ultima/#respond</comments>
+		<title>Em breve</title>
+		<link>https://jhonatadelima.github.io/2024/01/18/em-breve/</link>
+					<comments>https://jhonatadelima.github.io/2024/01/18/em-breve/#respond</comments>
 		
 		<dc:creator><![CDATA[root]]></dc:creator>
-		<pubDate>Thu, 18 Jan 2024 04:21:50 +0000</pubDate>
+		<pubDate>Thu, 18 Jan 2024 05:53:59 +0000</pubDate>
 				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://jhonatadelima.github.io/?p=111</guid>
+		<guid isPermaLink="false">https://jhonatadelima.github.io/?p=118</guid>
 
-					<description><![CDATA[numeros]]></description>
+					<description><![CDATA[Olá, me chamo jhonata.em breve estarei publicando meus projetos de portfólioestou aberto a sugestões. obrigado pela contribuição.]]></description>
 										<content:encoded><![CDATA[
-<p>numeros</p>
+<p>Olá, me chamo jhonata.<br>em breve estarei publicando meus projetos de portfólio<br>estou aberto a sugestões. obrigado pela contribuição.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://jhonatadelima.github.io/2024/01/18/ultima/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>muitos numeros</title>
-		<link>https://jhonatadelima.github.io/2024/01/18/muitos-numeros/</link>
-					<comments>https://jhonatadelima.github.io/2024/01/18/muitos-numeros/#respond</comments>
-		
-		<dc:creator><![CDATA[root]]></dc:creator>
-		<pubDate>Thu, 18 Jan 2024 04:21:29 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://jhonatadelima.github.io/?p=109</guid>
-
-					<description><![CDATA[numeros]]></description>
-										<content:encoded><![CDATA[
-<p>numeros</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://jhonatadelima.github.io/2024/01/18/muitos-numeros/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>vamos com mais</title>
-		<link>https://jhonatadelima.github.io/2024/01/18/vamos-com-mais/</link>
-					<comments>https://jhonatadelima.github.io/2024/01/18/vamos-com-mais/#respond</comments>
-		
-		<dc:creator><![CDATA[root]]></dc:creator>
-		<pubDate>Thu, 18 Jan 2024 04:21:03 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://jhonatadelima.github.io/?p=107</guid>
-
-					<description><![CDATA[numeros]]></description>
-										<content:encoded><![CDATA[
-<p>numeros</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://jhonatadelima.github.io/2024/01/18/vamos-com-mais/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>3 vezes</title>
-		<link>https://jhonatadelima.github.io/2024/01/18/3-vezes/</link>
-					<comments>https://jhonatadelima.github.io/2024/01/18/3-vezes/#respond</comments>
-		
-		<dc:creator><![CDATA[root]]></dc:creator>
-		<pubDate>Thu, 18 Jan 2024 04:20:41 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://jhonatadelima.github.io/?p=105</guid>
-
-					<description><![CDATA[numeros]]></description>
-										<content:encoded><![CDATA[
-<p>numeros</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://jhonatadelima.github.io/2024/01/18/3-vezes/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>vamos mais numeros</title>
-		<link>https://jhonatadelima.github.io/2024/01/18/vamos-mais-numeros/</link>
-					<comments>https://jhonatadelima.github.io/2024/01/18/vamos-mais-numeros/#respond</comments>
-		
-		<dc:creator><![CDATA[root]]></dc:creator>
-		<pubDate>Thu, 18 Jan 2024 04:20:20 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://jhonatadelima.github.io/?p=103</guid>
-
-					<description><![CDATA[mais numeros]]></description>
-										<content:encoded><![CDATA[
-<p>mais numeros</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://jhonatadelima.github.io/2024/01/18/vamos-mais-numeros/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Aqui temos numeros</title>
-		<link>https://jhonatadelima.github.io/2024/01/18/aqui-temos-numeros/</link>
-					<comments>https://jhonatadelima.github.io/2024/01/18/aqui-temos-numeros/#respond</comments>
-		
-		<dc:creator><![CDATA[root]]></dc:creator>
-		<pubDate>Thu, 18 Jan 2024 04:19:33 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://jhonatadelima.github.io/?p=101</guid>
-
-					<description><![CDATA[muitos numeros]]></description>
-										<content:encoded><![CDATA[
-<p>muitos numeros</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://jhonatadelima.github.io/2024/01/18/aqui-temos-numeros/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>POSTE TESTE 1</title>
-		<link>https://jhonatadelima.github.io/2024/01/18/poste-teste-1/</link>
-					<comments>https://jhonatadelima.github.io/2024/01/18/poste-teste-1/#respond</comments>
-		
-		<dc:creator><![CDATA[root]]></dc:creator>
-		<pubDate>Thu, 18 Jan 2024 03:22:36 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://jhonatadelima.github.io/?p=73</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://jhonatadelima.github.io/wp-content/uploads/2024/01/O-QUE-AS-PESSOAS-OFERECEM-PELA-SPIRIT-1-1024x576.png" alt="" class="wp-image-67" srcset="https://jhonatadelima.github.io/wp-content/uploads/2024/01/O-QUE-AS-PESSOAS-OFERECEM-PELA-SPIRIT-1-1024x576.png 1024w, https://jhonatadelima.github.io/wp-content/uploads/2024/01/O-QUE-AS-PESSOAS-OFERECEM-PELA-SPIRIT-1-300x169.png 300w, https://jhonatadelima.github.io/wp-content/uploads/2024/01/O-QUE-AS-PESSOAS-OFERECEM-PELA-SPIRIT-1-768x432.png 768w, https://jhonatadelima.github.io/wp-content/uploads/2024/01/O-QUE-AS-PESSOAS-OFERECEM-PELA-SPIRIT-1-1536x864.png 1536w, https://jhonatadelima.github.io/wp-content/uploads/2024/01/O-QUE-AS-PESSOAS-OFERECEM-PELA-SPIRIT-1-2048x1152.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-]]></content:encoded>
-					
-					<wfw:commentRss>https://jhonatadelima.github.io/2024/01/18/poste-teste-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>dasdasd</title>
-		<link>https://jhonatadelima.github.io/2024/01/18/dasdasd/</link>
-					<comments>https://jhonatadelima.github.io/2024/01/18/dasdasd/#respond</comments>
-		
-		<dc:creator><![CDATA[root]]></dc:creator>
-		<pubDate>Thu, 18 Jan 2024 03:00:40 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://jhonatadelima.github.io/?p=64</guid>
-
-					<description><![CDATA[asdasdasd]]></description>
-										<content:encoded><![CDATA[
-<p>asdasdasd</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://jhonatadelima.github.io/2024/01/18/dasdasd/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>asdasd</title>
-		<link>https://jhonatadelima.github.io/2024/01/18/asdasd/</link>
-					<comments>https://jhonatadelima.github.io/2024/01/18/asdasd/#respond</comments>
-		
-		<dc:creator><![CDATA[root]]></dc:creator>
-		<pubDate>Thu, 18 Jan 2024 03:00:31 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://jhonatadelima.github.io/?p=62</guid>
-
-					<description><![CDATA[asdasdadasd]]></description>
-										<content:encoded><![CDATA[
-<p>asdasdadasd</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://jhonatadelima.github.io/2024/01/18/asdasd/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>sad</title>
-		<link>https://jhonatadelima.github.io/2024/01/18/sad/</link>
-					<comments>https://jhonatadelima.github.io/2024/01/18/sad/#respond</comments>
-		
-		<dc:creator><![CDATA[root]]></dc:creator>
-		<pubDate>Thu, 18 Jan 2024 03:00:23 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://jhonatadelima.github.io/?p=60</guid>
-
-					<description><![CDATA[asdsad]]></description>
-										<content:encoded><![CDATA[
-<p>asdsad</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://jhonatadelima.github.io/2024/01/18/sad/feed/</wfw:commentRss>
+					<wfw:commentRss>https://jhonatadelima.github.io/2024/01/18/em-breve/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
