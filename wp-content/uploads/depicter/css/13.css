@@ -19,7 +19,7 @@
 	height:10px;
 }
 .depicter-13-element-12 .depicter-bullet-item.depicter-bullet-active{
-	background-color:#3D5CFF;
+	background-color:#5C40CA;
 }
 .depicter-13-element-12 .depicter-bullets-wrapper{
 	gap:7px;
@@ -76,7 +76,7 @@
 	transform:scale(0.95);
 }
 .depicter-revert .depicter-13-element-3{
-	background-color:#212121;
+	background-color:#232323;
 }
 .depicter-revert .depicter-13-section-1 .depicter-section-background{
 	background-color:#232323;
@@ -85,6 +85,9 @@
 /***** Tablet *****/
 @media screen and (max-width: 1024px){
 
+.depicter-13-element-12 .depicter-bullet-item.depicter-bullet-active{
+	background-color:#5C40CA;
+}
 .depicter-revert .depicter-13-element-7{
 	box-shadow:0px 10px 25px 0px rgba(0, 0, 0, 0.2);
 	border:none;
@@ -102,7 +105,7 @@
 	transition:all ease 0s;
 }
 .depicter-revert .depicter-13-element-3{
-	background-color:#212121;
+	background-color:#232323;
 }
 
 }
@@ -112,7 +115,7 @@
 .depicter-revert .depicter-13-element-8{
 	font-size:29px;
 	text-align:center;
-	color:#000000;
+	color:#FFFFFF;
 	font-family:"Rubik";
 	font-weight:600;
 	line-height:120%;
@@ -126,7 +129,7 @@
 	background-color:rgba(255, 255, 255, 0.7);
 }
 .depicter-13-element-12 .depicter-bullet-item.depicter-bullet-active{
-	background-color:#3D5CFF;
+	background-color:#5C40CA;
 }
 .depicter-revert .depicter-13-element-7{
 	font-size:13px;
@@ -135,7 +138,7 @@
 	font-family:"Rubik";
 	font-weight:400;
 	box-shadow:0px 10px 25px 0px rgba(0, 0, 0, 0.2);
-	background-color:#3787FF;
+	background-color:#5C40CA;
 	border-radius:8px;
 }
 .depicter-revert .depicter-13-element-7:not(.depicter-hover-off){
@@ -143,7 +146,7 @@
 }
 .depicter-revert .depicter-13-element-6{
 	font-size:14px;
-	color:#111111;
+	color:#FFFFFF;
 	font-family:"Rubik";
 	font-weight:400;
 	background-color:transparent;
@@ -151,7 +154,7 @@
 .depicter-revert .depicter-13-element-4{
 	font-size:20px;
 	text-align:center;
-	color:#111111;
+	color:#FFFFFF;
 	font-family:"Rubik";
 	font-weight:700;
 	line-height:121%;
@@ -168,10 +171,10 @@
 	transition:all ease 0s;
 }
 .depicter-revert .depicter-13-element-3{
-	background-color:#212121;
+	background-color:#232323;
 }
 .depicter-revert .depicter-13-section-1 .depicter-section-background{
-	background-color:#FFFFFF;
+	background-color:#232323;
 }
 
 }
